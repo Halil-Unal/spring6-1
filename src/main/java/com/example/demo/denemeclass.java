@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class denemeclass {
 
 @GetMapping("/hi")
-public String sayhi(){return "welcome your server running";}
+public String sayhi(){return "welcome your server runing";}
 
 
 }
